@@ -1,0 +1,8 @@
+api/node_modules
+client/node_modules
+mongo-data
+
+.env
+.idea
+api/.dockerignore
+client/.dockerignore
